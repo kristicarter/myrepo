@@ -5,3 +5,5 @@ testing my setup
 "adding a line" 
 "trying another line" 
 "THIS IS A LINE FROM RSTUDIO"
+"This is another line from RStudio"
+"This is a third line from RSudio"
